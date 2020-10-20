@@ -28,10 +28,11 @@ title: About
 
 * 네이버 블로그(구) : [http://blog.naver.com/koojj3586](http://blog.naver.com/koojj3586)
 * GitHub : [https://github.com/ChanhuiSeok](https://github.com/ChanhuiSeok)
+* [https://chanhuiseok.github.io/react-gitpage/](https://chanhuiseok.github.io/react-gitpage/)
 
 ---
 
-> 간단히 하실 말씀이 있다면, 밑의 폼을 채우고 메세지를 보내주세요.
+> 간단히 하실 말씀이 있다면, 밑의 폼을 채우고 메세지를 보내주세요!
 
 <div id = "about">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/chanhuicom@gmail.com" method="post">
