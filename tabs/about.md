@@ -35,7 +35,7 @@ title: About
 > 간단히 하실 말씀이 있다면, 밑의 폼을 채우고 메세지를 보내주세요!
 
 <div id = "about">
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/chanhuicom@gmail.com" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xknpqdgv" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name"><b>· 이름</b></label>
     <input type="text" name="name" id="full-name" placeholder="성명 입력" required=""><br>
