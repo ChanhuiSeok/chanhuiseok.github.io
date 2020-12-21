@@ -33,6 +33,10 @@ title: About
 * GitHub : [https://github.com/ChanhuiSeok](https://github.com/ChanhuiSeok)
 * [https://chanhuiseok.github.io/react-gitpage/](https://chanhuiseok.github.io/react-gitpage/)
 
+**[Email]**
+* chanhuicom@gmail.com
+* roddy.chan@kakaocorp.com
+
 ---
 
 > 간단히 하실 말씀이 있다면, 밑의 폼을 채우고 메세지를 보내주세요!
