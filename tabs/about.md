@@ -31,7 +31,6 @@ title: About
 
 **[Email]**
 * chanhuicom@gmail.com
-* roddy.chan@kakaocorp.com
 
 ---
 
