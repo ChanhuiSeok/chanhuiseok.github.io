@@ -12,7 +12,7 @@ title: About
 
 **[학력]**
 
-* 경북대학교 컴퓨터학부 재학(2015.3~2021.2)
+* 경북대학교 컴퓨터학부 졸업(2015.3~2021.2)
 
 **[경력]**
 * 제3회 부산 ICT융합 해커톤대회 우수상
@@ -31,6 +31,7 @@ title: About
 
 **[Email]**
 * chanhuicom@gmail.com
+* roddy.chan@kakaocorp.com
 
 ---
 
