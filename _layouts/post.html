@@ -108,9 +108,13 @@ layout: default
         </a>
       </div> <!-- div.post-navigation -->
 
-    {% if site.disqus.comments and page.comments %}
-      {% include disqus.html %}
-    {% endif %}
+      <script src="https://utteranc.es/client.js"
+      repo="chanhuiseok/chanhuiseok.github.io"
+      issue-term="pathname"
+      theme="github-light"
+      crossorigin="anonymous"
+      async>
+      </script>
 
     </div> <!-- .pl-1 pr-1 -->
 
