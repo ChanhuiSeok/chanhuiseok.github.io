@@ -19,13 +19,14 @@ Frontend에 관심이 많은 개발자입니다.
 ---
 
 ## **Interests**
-<img src="https://img.shields.io/badge/JavaScript-ED9517?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apollo Client-525fbf?style=flat-square&logo=apollo graphql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-926DBB?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Photoshop-2871BA?style=flat-square&logo=adobe photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-ED9517?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-3B91C5?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo Client-525fbf?style=flat-square&logo=apollo graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-926DBB?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-2871BA?style=flat-square&logo=adobe photoshop&logoColor=white"/>
 
 ---
 **학력**
