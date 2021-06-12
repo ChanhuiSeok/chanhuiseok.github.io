@@ -29,18 +29,6 @@ Frontend에 관심이 많은 개발자입니다.
 <img src="https://img.shields.io/badge/Photoshop-2871BA?style=flat-square&logo=adobe photoshop&logoColor=white"/>
 
 ---
-**학력**
-* 경북대학교 컴퓨터학부 졸업(2015.3~2021.2)
- 
-**활동**
-* 제3회 부산 ICT융합 해커톤대회 우수상
-* UNIST X Naver D2SF X 멋쟁이 사자처럼 해커톤 참가
-* 제5회 GIF(글로벌이노베이터페스타) 메이커톤 참가
-* 2019 LG글로벌챌린저 25기 활동
-* 제1회 경북대 코드페어 우수상
-* 라이브코로나 맵 2기 활동 (데이터 분석)
-* 경북대 코로나 알리미 사이트(http://knucorona.site/) 제작
-* 2020 오픈소스 컨트리뷰톤 참가
 
 **Link**
 
