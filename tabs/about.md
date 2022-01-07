@@ -32,7 +32,6 @@ Frontend에 관심이 많은 개발자입니다.
 
 **Link**
 
-* 네이버 블로그(구) : [http://blog.naver.com/koojj3586](http://blog.naver.com/koojj3586)
 * GitHub : [https://github.com/ChanhuiSeok](https://github.com/ChanhuiSeok)
 * [https://chanhuiseok.github.io/react-gitpage/](https://chanhuiseok.github.io/react-gitpage/)
 
