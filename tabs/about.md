@@ -40,4 +40,3 @@ Frontend에 관심이 많은 개발자입니다.
 ### 간단히 하실 말씀이 있다면, 아래 이메일로 연락해 주세요!
 
 * chanhuicom@gmail.com
-* roddy.chan@kakaocorp.com
