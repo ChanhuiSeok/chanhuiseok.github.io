@@ -1,6 +1,5 @@
 ---
 title: About
-
 # The About page
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
@@ -12,13 +11,15 @@ title: About
 <img src="https://user-images.githubusercontent.com/45116772/114479865-4be1eb80-9c3c-11eb-8d11-fcf32417f7cf.png" width="230">
 </p>
 
-## **Frontend Developer** 🏖️ 
+## **Frontend Developer** 🏖️
+
 Frontend에 관심이 많은 개발자입니다.
 포스팅에 오류가 있다면 적극 지적해 주세요!
 
 ---
 
 ## **Interests**
+
 <img src="https://img.shields.io/badge/JavaScript-ED9517?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-3B91C5?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
@@ -32,11 +33,10 @@ Frontend에 관심이 많은 개발자입니다.
 
 **Link**
 
-* GitHub : [https://github.com/ChanhuiSeok](https://github.com/ChanhuiSeok)
-* [https://chanhuiseok.github.io/react-gitpage/](https://chanhuiseok.github.io/react-gitpage/)
+- GitHub : [https://github.com/ChanhuiSeok](https://github.com/ChanhuiSeok)
 
 ---
 
 ### 간단히 하실 말씀이 있다면, 아래 이메일로 연락해 주세요!
 
-* chanhuicom@gmail.com
+- chanhuicom@gmail.com
